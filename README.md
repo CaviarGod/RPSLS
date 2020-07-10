@@ -1,4 +1,4 @@
 # How to play
-![alt text](Others/RPSLS.png)
+![alt text](Others/RSPLS.png)
 
-Image Credits: [Pinterest](https://www.pinterest.com/pin/197806608608945282/)
+Image Credits: [Softology Blog](https://softologyblog.wordpress.com/2018/03/23/rock-paper-scissors-cellular-automata/)
